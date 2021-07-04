@@ -64,7 +64,7 @@
    <br />
    Dashboard -> Applications -> YOUR APP -> Allowed Logout URLs
    ```shell
-   https://nextjs-auth0-template.herokuapp.com, 
+   https://[Heroku app name].herokuapp.com, 
    http://localhost:3000
    ```
    
